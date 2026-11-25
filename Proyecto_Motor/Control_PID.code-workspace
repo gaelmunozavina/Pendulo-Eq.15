@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../Control_PID"
+		},
+		{
+			"path": "../Firmware_ESP32"
+		}
+	],
+	"settings": {}
+}
