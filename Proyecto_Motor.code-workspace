@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../Sistemas expertos/Proyecto_Motor"
+		},
+		{
+			"path": "../../Sistemas expertos/Firmware_ESP32"
+		}
+	],
+	"settings": {}
+}
